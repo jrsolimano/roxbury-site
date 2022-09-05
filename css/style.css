@@ -1,8 +1,4 @@
-/*
-@author Jack Philippi
-@description @NewRetroWave - I don't own any rights to the NewRetroWave logo or name 👽. Sorry it plays up on Mozilla. I'll fix it when I have a minute!
-*/
-  
+
 @font-face {
     font-family: OutRun;
     src: url("https://jackphilippi.com.au/cdn/fonts/outrun_future.otf") format("opentype");
@@ -20,6 +16,9 @@
     background: #111;
     background: linear-gradient(#0c141f 40%, #cf33d9 41%, #0c141f 60%);
     background-image: url("../assets/img/bg-site.png");
+    display: flex;
+    justify-content: center;
+    align-content: center;
     
     
 }
