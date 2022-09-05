@@ -1,0 +1,15 @@
+
+/* Estilo para celulares*/
+
+@media (max-width: 576px){
+
+    
+    .nrw img {
+
+        width: 99%;
+        height: 99%;
+
+      }
+
+
+}
